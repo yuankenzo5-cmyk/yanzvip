@@ -1,0 +1,11 @@
+{
+  "name": "login-api",
+  "version": "1.0.0",
+  "main": "api/login.js",
+  "type": "module",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "sqlite3": "^5.1.2",
+    "open": "^9.0.0"
+  }
+}
